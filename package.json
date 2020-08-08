@@ -2,7 +2,7 @@
   "name": "git-test",
   "version": "1.0.0",
   "description": "Git and Node",
-  "main": "bootstrap-grid-example.html",
+  "main": "index.html",
     "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
